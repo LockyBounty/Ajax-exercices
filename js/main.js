@@ -22,6 +22,9 @@
 
 //}
 
+let hunter = document.querySelector(".results");
+
+
 let xhr= new XMLHttpRequest();
 xhr.open(`POST`, `https://musicdemons.com/api/v1/artist/autocomplete`);
 

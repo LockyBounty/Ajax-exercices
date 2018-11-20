@@ -1,0 +1,6 @@
+- analyser la page
+-inspecter
+- network
+- name  -> autocomplete
+- Headers
+- Response headers -> content-Type (to see what to put in the header)
